@@ -1,0 +1,11 @@
+C:\Users\Tistou\Desktop\Dev\Pong\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Tistou\Desktop\Dev\Pong\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Tistou\Desktop\Dev\Pong\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Tistou\Desktop\Dev\Pong\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Tistou\Desktop\Dev\Pong\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Tistou\Desktop\Dev\Pong\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Tistou\Desktop\Dev\Pong\obj\Debug\UnityVS.Pong.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Tistou\Desktop\Dev\Pong\obj\Debug\Assembly-CSharp.dll
+C:\Users\Tistou\Desktop\Dev\Pong\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Tistou\Desktop\Dev\Pong\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Tistou\Desktop\Dev\Pong\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
